@@ -4,11 +4,13 @@
     "slug": "Project",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/img/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/img/splash.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#000",
+    "buttonLogin": "./assets/img/buttonLogin.png",
+    "buttonRastreio": "./assets/img/buttonRastreio.png" 
     },
     "updates": {
       "fallbackToCacheTimeout": 0
